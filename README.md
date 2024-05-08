@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning how to work with git 😀  
 - ⚡ Fun fact: besides computers, I ride scooters
 
-_**Feel free to leave a comment or to engage in communication in any way!**_
+_**Feel free to leave a comment or start communication in any way!**_
 
 <!---
 jkuzel02/jkuzel02 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
