@@ -1,6 +1,5 @@
 👋 Hi, I’m @jkuzel02
 # Welcome to my GitHub profile!
-- 👀 I’m interested in Coding, Programming, Networking, DevOps & many more.
 
 <!---
 jkuzel02/jkuzel02 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
