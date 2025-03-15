@@ -1,6 +1,6 @@
 👋 Hi, I’m @jkuzel02
 # Welcome to my GitHub profile!
-- Linux, Networking, Python, Ansible, Docker, Kubernetes
+- Ansible, Computer networking, Docker, Kubernetes, Linux, Python
 
 <!---
 jkuzel02/jkuzel02 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
