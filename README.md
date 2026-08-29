@@ -1,4 +1,4 @@
-👋 Hi, I’m @jkuzel02
+👋 Hi, I’m @jkuzel
 # Welcome to my GitHub profile!
 <!--- 
 - Ansible, Computer networking, Docker, Kubernetes, Linux, Python 
